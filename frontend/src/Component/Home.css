@@ -1,0 +1,66 @@
+.carousel{
+    justify-content: center;
+    align-items: center;
+}
+.carouselContainer{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    align-self: center;
+}
+.carouselItems{
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+}
+.carouselImage{
+    object-fit: contain;
+    margin-left: auto;
+    width: 80vw;
+    height: 35vw;
+}
+.tagLine{
+    margin: auto;
+    padding: 2vmax;
+    font-size: 5vmax;
+    color: #1A94B8;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.MuiButton-root:hover{
+    background-color: #0268EE !important;
+    color: white !important;
+}
+.quickTour>h1{
+    font-size: 40px;
+    color: tomato;
+    margin-top: 10vh;
+    margin-left: 10vh auto;
+    text-align: center;
+    position:relative;
+}
+.quickTour h1:before {
+    content: "";
+    display: block;
+    width: 40vmax;
+    height: 5px;
+    background: #191970;
+    left: 0;
+    top: 50%;
+    z-index:-2;
+    position: absolute;
+  }
+  .quickTour h1:after {
+    content: "";
+    display: block;
+    width: 40vmax;
+    height: 5px;
+    background: #191970;
+    right: 0;
+    top: 50%;
+    z-index:-2;
+    position: absolute;
+  }

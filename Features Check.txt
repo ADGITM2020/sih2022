@@ -1,0 +1,25 @@
+Backend:-
+
+[✔️] - Login/Logout/Signup
+[✔️] - Socket IO Chat
+
+FrontEnd:-
+
+[✔️] - Landing Page
+[✔️] - Home Page(Details for all the navbar items on the page)
+[✔️] - Navbar - Opportunities(Conferences/Publications, Hackathons, InternShips/FellowShip, Coding Contests, Technical Events), 
+		  Join Our Community, Account(Login/Signup/Profile/Logout)
+[] - Upcoming Conferences(cards, Main Site Link)
+[] - Upcoming Hackathons(govt organized hackathons, mlh)
+[] - Govt + Linked In Job Api(+others)
+[✔️] - Codeforces, Leetcode, Interviewbit, GFG
+[] - Open source and university events
+[✔️] - Join Our Community
+
+
+Pending for 28 March(FrontEnd):-
+[] - Theme
+[] - CSS for JOIN Community
+[] - CSS for Card Rendering
+[] - Use Card
+[] - Puppeteer
